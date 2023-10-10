@@ -1,0 +1,15 @@
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\OS_LR\lab_1_software_dev_tech\Lab_1\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
