@@ -24,7 +24,15 @@ class Calculator
             case '-':
                 res = firstNum - secondNum; break;
             case '/':
-                res = firstNum / secondNum; break;
+                if (secondNum == 0)
+                {
+                    Console.WriteLine("Ошибка деления на 0 !!!");
+                    Environment.Exit(0);
+                    break;
+                } else
+                {
+                    res = firstNum / secondNum; break;
+                }                
             case '*':
                 res = firstNum * secondNum; break;
         }
